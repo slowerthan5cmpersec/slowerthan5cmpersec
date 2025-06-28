@@ -49,13 +49,13 @@ jobs:
           plugin_isocalendar_duration: full-year
           extras_css: |
             h1 {
-              color: #ff79c6;
-            }
-            h2 {
               color: #8be9fd;
             }
-            h3 {
+            h2 {
               color: #ff79c6;
+            }
+            h3 {
+              color: #8be9fd;
             }
 
       - uses: lowlighter/metrics@latest
@@ -68,6 +68,7 @@ jobs:
           base: ""
           config_timezone: Asia/Seoul
           plugin_languages: yes
+          plugin_languages_aliases: Jupyter Notebook: Jupyter
           plugin_languages_analysis_timeout: 10
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
@@ -80,13 +81,13 @@ jobs:
           plugin_languages_threshold: 0%
           extras_css: |
             h1 {
-              color: #ff79c6;
+              color: #8be9fd;
             }
             h2 {
               color: #8be9fd;
             }
             h3 {
-              color: #ff79c6;
+              color: #8be9fd;
             }
 
 
