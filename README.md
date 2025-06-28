@@ -118,13 +118,19 @@
   <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></picture>
+  <picture><img src="https://img.shields.io/badge/H2 Database-09476B?style=flat-square&logo=h2database&logoColor=white"/></picture>
+
+  
 
   ### | Hate but...
   <picture><img src="https://img.shields.io/badge/lanchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=fff"></picture>
   <picture><img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"></picture>
   
-  
+
   
   
   </details>
