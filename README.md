@@ -24,7 +24,7 @@
   
   
   <h2 style="border-bottom: 1px solid #d8dee4; color: #fff;" align="center"> Stacks </h2>
-  <div style="text-align: left; margin: 1px; background-color: #44475a; padding: 10px; border-radius: 10px">
+  <div style="text-align: left; margin: 30px; background-color: #44475a; padding: 10px; border-radius: 10px">
 
   ### | ML
   <picture><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></picture>
