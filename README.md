@@ -7,7 +7,7 @@
 
 <div>
 
-  <div>
+  <div align="center">
   <picture width = 45% display="inline-block">
     <img src="/my-metrics-0.svg" alt="Metrics" width = 45% display="inline-block">
   </picture>
