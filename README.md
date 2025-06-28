@@ -83,7 +83,6 @@
   <picture><img src="https://img.shields.io/badge/nginx-fff?style=flat-square&logo=nginx&logoColor=009639"/></picture>
   <picture><img src="https://img.shields.io/badge/Docker-fff?style=flat-square&logo=Docker&logoColor=2496ED"></picture>
   <picture><img src="https://img.shields.io/badge/MySQL-fff?style=flat-square&logo=MySQL&logoColor=whi4479A1te"></picture>
-  <picture><img src="https://img.shields.io/badge/OracleSQL-fff?style=flat-square&logo=Oracle&logoColor=whF80000ite"></picture>
   <picture><img src="https://img.shields.io/badge/AWS-fff?style=flat-square&logo=aws&logoColor=%23FF9900"/></picture>
 
 
@@ -119,8 +118,14 @@
   <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></picture>
+
+  ### | Hate but...
   <picture><img src="https://img.shields.io/badge/lanchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></picture>
+  <picture><img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=fff"></picture>
   <picture><img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white"></picture>
+  
+  
+  
   
   </details>
 
