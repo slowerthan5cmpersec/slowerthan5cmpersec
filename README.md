@@ -94,23 +94,20 @@
   <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> -->
   
-
-
 <!-- <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/macOS-000?style=flat-square&logo=macOS&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"> -->
 
   </div>
 
-  
-  <br/>
-  <br/>
-  
+  <!-- <div>
+    
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowerthan5cmpersec&theme=neon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowerthan5cmpersec&theme=neon&show_icons=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slowerthan5cmpersec&repo=LLM2web&theme=neon)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slowerthan5cmpersec&repo=LLM2web&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+  </div> -->
   
 </div>
