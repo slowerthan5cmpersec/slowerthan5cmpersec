@@ -4,7 +4,7 @@
 <div align="center">
   
   <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97) -->
-  <img src="https://github.com/slowerthan5cmpersec/slowerthan5cmpersec/blob/main/src/5cm.gif" style="width: 90%">
+  <!-- <img src="https://github.com/slowerthan5cmpersec/slowerthan5cmpersec/blob/main/src/5cm.gif" style="width: 90%"> -->
   <!--   style="padding: 10px; border-radius:6%; width: 80%;" -->
   <!--   <img src="https://i.gifer.com/Mc2n.gif" style="padding: 10px; border-radius:6% /9%;"> -->
   
