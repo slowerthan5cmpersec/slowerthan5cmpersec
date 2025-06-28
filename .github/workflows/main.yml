@@ -52,13 +52,13 @@ jobs:
             paths.forEach(path => {
               var color = path.getAttribute("fill");
               if (color == "#ebedf0") {
-                path.setAttribute("fill", "#191A21");
+                path.setAttribute("fill", "#f8f8f2");
               } 
               else if (color == "#216e39") {
-                path.setAttribute("fill", "#bd93f9");
+                path.setAttribute("fill", "#191A21");
               } 
               else if (color == "#30a14e") {
-                path.setAttribute("fill", "#f1fa8c");
+                path.setAttribute("fill", "#44475a");
               } 
               else if (color == "#40c463") {
                 path.setAttribute("fill", "#ff79c6");
