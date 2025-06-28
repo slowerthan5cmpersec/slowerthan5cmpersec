@@ -22,6 +22,8 @@ jobs:
           user: slowerthan5cmpersec
           template: classic
           base: header, activity, repositories
+          extra_js: |
+            document.querySelectorAll("h2")?.forEach(h2 => h2.remove());
           config_timezone: Asia/Seoul
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
@@ -37,8 +39,7 @@ jobs:
             }
 
           # document.querySelectorAll("h1")?.forEach(h1 => h1.innerHTML = "҂ ╸_-) ᡕᠵᡁデ╤═╾╼━    ✛")
-          extra_js: |
-            document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
+          
 
       - uses: lowlighter/metrics@latest
         with:
