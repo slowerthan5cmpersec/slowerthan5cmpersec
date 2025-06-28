@@ -76,7 +76,6 @@
 
 
   ### <div align="left"> | Backend </div>
-  <picture><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></picture>
@@ -116,6 +115,7 @@
   <!-- <picture><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"></picture> -->
 
   ### <div align="left"> | Others </div>
+  <picture><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></picture>
