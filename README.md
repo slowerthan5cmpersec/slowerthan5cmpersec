@@ -80,9 +80,9 @@
   <picture><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/></picture>
-  <picture><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Notion-fff?style=flat-square&logo=Notion&logoColor=black"></picture>
   <!-- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> -->
+  <!-- <picture><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"></picture> -->
 
 
   ### | Others
