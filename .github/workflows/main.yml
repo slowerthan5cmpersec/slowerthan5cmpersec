@@ -66,9 +66,6 @@ jobs:
               else if (color == "#9be9a8") {
                 path.setAttribute("fill", "#8be9fd");
               } 
-              else {
-                path.setAttribute("fill", "#50fa7b");
-              }
             });
               
           config_timezone: Asia/Seoul
