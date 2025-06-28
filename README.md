@@ -88,7 +88,7 @@
 
 
   
-  <details> <summary> <h3> <picture><img src="https://img.shields.io/badge/ more info -0D1117?style=flat-square&logo=wasmer&logoColor=white"></picture>  </h3> </summary> 
+  <details> <summary> <h3> <picture><img src="https://img.shields.io/badge/ more info -282a36?style=flat-square&logo=wasmer&logoColor=white"></picture>  </h3> </summary> 
   <!--   ▫▴▾⁼⁻∘∎∮∷∴⋅     |    ━   -->
   <!--   ҂ ⬝_-) ᡕᠵᡁデ╤═╾╼      -->
 
