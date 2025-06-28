@@ -23,7 +23,7 @@ jobs:
           template: classic
           base: header, activity, repositories
           extras_js: |
-            document.querySelectorAll("h1")?.forEach(h1 => h1.innerHTML = "҂ ╸_-) ᡕᠵᡁデ╤═╾╼━    ✛")
+            document.querySelectorAll("h1")?.forEach(h1 => h1.innerHTML = "҂ ╸_-) ᡕᠵᡁデ╤═╾╼━   ✛")
           config_timezone: Asia/Seoul
           extras_css: |
             h1 {
