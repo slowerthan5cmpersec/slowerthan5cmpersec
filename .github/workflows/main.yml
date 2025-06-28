@@ -52,7 +52,7 @@ jobs:
             paths.forEach(path => {
               var color = path.getAttribute("fill");
               if (color == "#ebedf0") {
-                path.setAttribute("fill", "#282a36");
+                path.setAttribute("fill", "#191A21");
               } 
               else if (color == "#216e39") {
                 path.setAttribute("fill", "#bd93f9");
