@@ -6,12 +6,13 @@
 </div>
 
 
-<div>
+<div align="center">
   <picture>
     <img src="/my-metrics-0.svg" alt="Metrics" width = 50%>
   </picture>
-  <img src="/my-metrics-1.svg" alt="Metrics" width = 50%>
-  
+  <picture>
+    <img src="/my-metrics-1.svg" alt="Metrics" width = 50%>
+  </picture>picture>
   
   ## 👀 About Me
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
