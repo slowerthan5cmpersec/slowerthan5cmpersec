@@ -9,9 +9,9 @@
 <div>
 
 <div>
-<img src="/my-metrics-0.svg" alt="Metrics" width = 50% display="inline-block">
+<img src="/my-metrics-0.svg" alt="Metrics" width = 40% display="inline-block">
 
-<img src="/my-metrics-1.svg" alt="Metrics" width = 50% display="inline-block">
+<img src="/my-metrics-1.svg" alt="Metrics" width = 40% display="inline-block">
 </div>
   
   ## 👀 About Me
