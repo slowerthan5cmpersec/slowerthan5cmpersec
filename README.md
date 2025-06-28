@@ -6,12 +6,10 @@
 </div>
 
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics" width = 50%>
-</picture>
-
 <div>
-  <!--Body-->
+  <picture>
+    <img src="/github-metrics.svg" alt="Metrics" width = 50%>
+  </picture>
   
   ## 👀 About Me
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
