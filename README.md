@@ -26,7 +26,7 @@
   <h2 align="center"> Stacks </h2>
   <div>
   
-  ### | ML
+  ###  <div align="left"> | ML </div>
   <picture><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=Lightning&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"></picture>
@@ -38,7 +38,7 @@
 
 
 
-  ### | Frontend
+  ### <div align="left"> | Frontend </div>
   <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"></picture>
@@ -52,7 +52,7 @@
 
 
 
-  ### | Backend
+  ### <div align="left"> | Backend </div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <picture><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></picture>
@@ -66,7 +66,7 @@
 
 
 
-  ### | PyPI
+  ### <div align="left"> | PyPI </div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <picture><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></picture>
@@ -75,7 +75,7 @@
   <picture><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"></picture>
 
 
-  ### | Tools
+  ### <div align="left"> | Tools </div>
   <picture><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Intellij Idea-000000?style=flat-square&logo=intellijidea&logoColor=white"/></picture>
@@ -90,7 +90,7 @@
   <!-- <picture><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"></picture> -->
 
 
-  ### | Others
+  ### <div align="left"> | Others </div>
   <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></picture>
