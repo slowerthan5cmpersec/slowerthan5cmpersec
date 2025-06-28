@@ -1,4 +1,4 @@
-<div style="text-align: center; background-color: #282a36;">
+<div style="text-align: center; background-color: #fff;">
 <!-- padding: 10px; border-radius: 10px -->
 
 <div>
@@ -41,11 +41,11 @@
   <picture><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></picture>
-  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> -->
   <picture><img src="https://img.shields.io/badge/React-000?style=flat-square&logo=React&logoColor=#61DAFB"></picture>
   <picture><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/CRA-000?style=flat-square&logo=createreactapp&logoColor=#09D3AC"/></picture>
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> -->
 
 
 
@@ -90,9 +90,10 @@
   <picture><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white"></picture>
   <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> -->
-  <picture><img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white"></picture>
+  
 
 
 <!-- <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> -->
