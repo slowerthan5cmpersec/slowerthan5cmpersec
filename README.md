@@ -9,8 +9,8 @@
 <div>
   <picture>
     <img src="/my-metrics-0.svg" alt="Metrics" width = 50%>
-    <img src="/my-metrics-1.svg" alt="Metrics" width = 50%>
   </picture>
+  <img src="/my-metrics-1.svg" alt="Metrics" width = 50%>
   
   
   ## 👀 About Me
