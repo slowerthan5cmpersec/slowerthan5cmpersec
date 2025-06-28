@@ -43,7 +43,7 @@ jobs:
 
           user: slowerthan5cmpersec
           template: classic
-          # base: header, activity, repositories
+          base: ''
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
