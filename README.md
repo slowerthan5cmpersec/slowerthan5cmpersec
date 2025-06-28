@@ -16,14 +16,20 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-      <picture width = 100% display="inline-block">
-        <img src="/my-metrics-0.svg" alt="Metrics" width = 100% display="inline-block">
-      </picture>
+        <picture width = 100% display="inline-block">
+          <img src="/my-metrics-0.svg" alt="Metrics" width = 100% display="inline-block">
+        </picture>
+        <picture width = 100% display="inline-block">
+          <img src="/my-metrics-3.svg" alt="Metrics" width = 100% display="inline-block">
+        </picture>
       </td>
       <td width="50%" valign="top">
-      <picture width = 100% display="inline-block">
-        <img src="/my-metrics-1.svg" alt="Metrics" width = 100% display="inline-block">
-      </picture>
+        <picture width = 100% display="inline-block">
+          <img src="/my-metrics-1.svg" alt="Metrics" width = 100% display="inline-block">
+        </picture>
+        <picture width = 100% display="inline-block">
+          <img src="/my-metrics-2.svg" alt="Metrics" width = 100% display="inline-block">
+        </picture>
       </td>
     </tr>
   </table>
