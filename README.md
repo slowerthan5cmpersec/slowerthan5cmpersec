@@ -90,10 +90,10 @@
 
 
   ### | Others
-  <picture><img src="https://img.shields.io/badge/lanchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></picture>
-  <picture><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></picture>
+  <picture><img src="https://img.shields.io/badge/lanchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white"></picture>
   <!--  -->
   <!--  -->
