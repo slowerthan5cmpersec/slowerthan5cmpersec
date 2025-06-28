@@ -48,7 +48,7 @@ jobs:
           template: classic
           base: ''
           extras_js: |
-            const paths = document.queryselectorAll("path");
+            const paths = document.querySelectorAll("path");
             paths.forEach(path => {
               var color = path.getAttribute("fill");
               if (color == "#ebedf0") {
