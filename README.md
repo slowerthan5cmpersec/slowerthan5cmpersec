@@ -7,7 +7,7 @@
 
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics" width = 90%>
+  <img src="/github-metrics.svg" alt="Metrics" width = 50%>
 </picture>
 
 <div>
