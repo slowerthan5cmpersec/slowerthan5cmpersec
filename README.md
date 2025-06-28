@@ -70,7 +70,7 @@
 
 
   ### <div align="left"> | Backend </div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <picture><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></picture>
@@ -82,17 +82,18 @@
   <picture><img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=aws&logoColor=white"/></picture>
 
 
+  
+  <details> <summary > <h3> ҂ ╸_-) ᡕᠵᡁデ╤═╾╼━ ________ ✛  Click Here </h3> </summary> 
 
-  ### <div align="left"> | PyPI </div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  ### | PyPI 
+  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Matplotlib-65BAEA?style=flat-square&logo=Matplotlib&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"></picture>
-
-
-  ### <div align="left"> | Tools </div>
+  
+  ### | Tools 
   <picture><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Intellij Idea-000000?style=flat-square&logo=intellijidea&logoColor=white"/></picture>
@@ -106,15 +107,16 @@
   <!-- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"> -->
   <!-- <picture><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"></picture> -->
 
-
   ### <div align="left"> | Others </div>
   <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/lanchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></picture>
   <picture><img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white"></picture>
-  <!--  -->
-  <!--  -->
+  
+  </details>
+
+
   
 <!-- <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/macOS-000?style=flat-square&logo=macOS&logoColor=white"/> -->
