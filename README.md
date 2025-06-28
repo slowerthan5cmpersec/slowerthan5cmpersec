@@ -83,7 +83,7 @@
 
 
   
-  <details> <summary > <h3> ҂ ⬝_-) ᡕᠵᡁデ╤═╾╼    ✛  </h3> Click Here  </summary> 
+  <details> <summary> <h3> ҂ ⬝_-) ᡕᠵᡁデ╤═╾╼    ✛ <picture><img src="https://img.shields.io/badge/◀ click this-ff79c6?style=flat-square&logo=ddd&logoColor=white"></picture>  </h3> </summary> 
   <!--   ▫▴▾⁼⁻∘∎∮∷∴⋅     |    ━   -->
 
   ### | PyPI 
