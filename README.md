@@ -8,7 +8,10 @@
 
 <div>
   <picture>
-    <img src="/github-metrics.svg" alt="Metrics" width = 50%>
+    <img src="/my-metrics-0.svg" alt="Metrics" width = 50%>
+  </picture>
+  <picture>
+    <img src="/my-metrics-1.svg" alt="Metrics" width = 50%>
   </picture>
   
   ## 👀 About Me
