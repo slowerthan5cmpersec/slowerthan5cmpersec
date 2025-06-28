@@ -12,19 +12,36 @@
 
 <div>
 
-  <div align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+      <picture width = 100% display="inline-block">
+        <img src="/my-metrics-0.svg" alt="Metrics" width = 100% display="inline-block">
+      </picture>
+      </td>
+      <td width="50%" valign="top">
+      <picture width = 100% display="inline-block">
+        <img src="/my-metrics-1.svg" alt="Metrics" width = 100% display="inline-block">
+      </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
+  <!-- <div align="center">
     <picture width = 45% display="inline-block">
   <img src="/my-metrics-0.svg" alt="Metrics" width = 45% display="inline-block">
     </picture>
     <picture width = 45% display="inline-block">
   <img src="/my-metrics-1.svg" alt="Metrics" width = 45% display="inline-block">
     </picture>
-  </div>
+  </div> -->
 
   
   
   <h2 align="center"> Stacks </h2>
-  <div>
+  <div align="left">
   
   ###  <div align="left"> | ML </div>
   <picture><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></picture>
