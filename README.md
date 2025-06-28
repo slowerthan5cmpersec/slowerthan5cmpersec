@@ -1,4 +1,4 @@
-<div style="text-align: center; background-color: #fff;">
+<div align="center">
 <!-- padding: 10px; border-radius: 10px -->
 
 <div align="center">
@@ -23,9 +23,9 @@
 
   
   
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #fff;" align="center"> Stacks </h2>
-  <div style="text-align: left; margin: 30px; background-color: #44475a; padding: 10px; border-radius: 10px">
-
+  <h2 align="center"> Stacks </h2>
+  <div>
+  
   ### | ML
   <picture><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></picture>
   <picture><img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=Lightning&logoColor=white"></picture>
