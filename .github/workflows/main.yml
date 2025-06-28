@@ -68,7 +68,8 @@ jobs:
               } 
               else {
                 path.setAttribute("fill", "#50fa7b");
-              } 
+              }
+            });
               
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
