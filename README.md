@@ -19,6 +19,7 @@
         <picture width = 100% display="inline-block">
           <img src="/my-metrics-0.svg" alt="Metrics" width = 100% display="inline-block">
         </picture>
+        <br><br>
         <picture width = 100% display="inline-block">
           <img src="/my-metrics-3.svg" alt="Metrics" width = 100% display="inline-block">
         </picture>
