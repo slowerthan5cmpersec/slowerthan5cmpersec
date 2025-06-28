@@ -1,21 +1,18 @@
 <div>
-  
-  <!--Header-->
- 
-  
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 </div>
 
 
 <div>
 
-<div>
-  <picture width = 35% display="inline-block">
-<img src="/my-metrics-0.svg" alt="Metrics">
-  </picture>
-<!--   <picture width = 45% display="inline-block"> -->
-<img src="/my-metrics-1.svg" alt="Metrics" width = 47% display="inline-block">
+  <div>
+<!--   <picture width = 35% display="inline-block"> -->
+    <img src="/my-metrics-0.svg" alt="Metrics" width = 47% display="inline-block">
 <!--   </picture> -->
-</div>
+<!--   <picture width = 45% display="inline-block"> -->
+    <img src="/my-metrics-1.svg" alt="Metrics" width = 47% display="inline-block">
+<!--   </picture> -->
+  </div>
   
   ## 👀 About Me
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
