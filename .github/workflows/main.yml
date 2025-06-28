@@ -24,6 +24,26 @@ jobs:
           base: header, activity, repositories
           extras_js: |
             document.querySelectorAll("h1")?.forEach(h1 => h1.innerHTML = "҂ ⬝_-) ᡕᠵᡁデ╤═╾╼   ✛");
+
+            const rects = document.querySelectorAll("rect");
+            rects.forEach(rect => {
+              var color = rect.getAttribute("fill");
+              if (color == "#ebedf0") {
+                rect.setAttribute("fill", "#f8f8f2");
+              } 
+              else if (color == "#216e39") {
+                rect.setAttribute("fill", "#191A21");
+              } 
+              else if (color == "#30a14e") {
+                rect.setAttribute("fill", "#44475a");
+              } 
+              else if (color == "#40c463") {
+                rect.setAttribute("fill", "#ff79c6");
+              } 
+              else if (color == "#9be9a8") {
+                rect.setAttribute("fill", "#8be9fd");
+              } 
+            });
             
           config_timezone: Asia/Seoul
           extras_css: |
