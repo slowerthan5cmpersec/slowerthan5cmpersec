@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          # SETTING_JSON: 
+          SETTING_JSON: https://github.com/slowerthan5cmpersec/slowerthan5cmpersec/blob/main/setting/setting.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
