@@ -25,3 +25,13 @@ jobs:
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            h1 {
+              color: #ff79c6;
+            }
+            h2 {
+              color: #8be9fd;
+            }
+            h3 {
+              color: #ff79c6;
+            }
