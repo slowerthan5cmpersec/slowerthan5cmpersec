@@ -38,7 +38,7 @@ jobs:
 
           # document.querySelectorAll("h1")?.forEach(h1 => h1.innerHTML = "҂ ╸_-) ᡕᠵᡁデ╤═╾╼━    ✛")
           extra_js: |
-            document.querySelectorAll("h1")?.forEach(h2 => h2.remove())
+            document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
 
       - uses: lowlighter/metrics@latest
         with:
