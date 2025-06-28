@@ -24,7 +24,30 @@ jobs:
           base: header, activity, repositories
           extras_js: |
             document.querySelectorAll("h1")?.forEach(h1 => h1.innerHTML = "҂ ⬝_-) ᡕᠵᡁデ╤═╾╼   ✛");
+            
+          config_timezone: Asia/Seoul
+          extras_css: |
+            h1 {
+              color: #ff79c6;
+            }
+            h2 {
+              color: #8be9fd;
+            }
+            h3 {
+              color: #ff79c6;
+            }          
 
+            
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: my-metrics-1.svg
+
+          user: slowerthan5cmpersec
+          template: classic
+          base: ''
+          extras_js: |
             const paths = document.queryselectorAll("path");
             paths.forEach(path => {
               var color = path.getAttribute("fill");
@@ -46,28 +69,7 @@ jobs:
               else {
                 path.setAttribute("fill", "#50fa7b");
               } 
-
-            
-          config_timezone: Asia/Seoul
-          extras_css: |
-            h1 {
-              color: #ff79c6;
-            }
-            h2 {
-              color: #8be9fd;
-            }
-            h3 {
-              color: #ff79c6;
-            }          
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: my-metrics-1.svg
-
-          user: slowerthan5cmpersec
-          template: classic
-          base: ''
+              
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
