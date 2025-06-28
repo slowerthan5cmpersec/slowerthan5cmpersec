@@ -12,9 +12,9 @@
   <picture width = 47% display="inline-block">
 <img src="/my-metrics-0.svg" alt="Metrics">
   </picture>
-  <picture width = 47% display="inline-block">
+<!--   <picture width = 47% display="inline-block"> -->
 <img src="/my-metrics-1.svg" alt="Metrics" width = 47% display="inline-block">
-  </picture>
+<!--   </picture> -->
 </div>
   
   ## 👀 About Me
