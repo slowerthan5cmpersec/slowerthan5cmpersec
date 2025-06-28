@@ -1,11 +1,12 @@
 <div style="text-align: center; background-color: #fff;">
 <!-- padding: 10px; border-radius: 10px -->
 
-<div style="display:flex; align:center; align-items:center; align-content:center;">
+<div align="center">
   
   <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97) -->
-  <img src="https://github.com/slowerthan5cmpersec/slowerthan5cmpersec/blob/main/src/5cm.gif" style="padding: 10px; border-radius:6%; width: 80%;">
-<!--   <img src="https://i.gifer.com/Mc2n.gif" style="padding: 10px; border-radius:6% /9%;"> -->
+  <img src="https://github.com/slowerthan5cmpersec/slowerthan5cmpersec/blob/main/src/5cm.gif" style="width: 80%">
+  <!--   style="padding: 10px; border-radius:6%; width: 80%;" -->
+  <!--   <img src="https://i.gifer.com/Mc2n.gif" style="padding: 10px; border-radius:6% /9%;"> -->
   
 </div>
 
@@ -22,7 +23,7 @@
 
   
   
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #fff;"> Stacks </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #fff;" align="center"> Stacks </h2>
   <div style="text-align: left; margin: 1px; background-color: #44475a; padding: 10px; border-radius: 10px">
 
   ### | ML
