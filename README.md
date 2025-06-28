@@ -6,12 +6,12 @@
 <div>
 
   <div>
-<!--   <picture width = 35% display="inline-block"> -->
-    <img src="/my-metrics-0.svg" alt="Metrics" width = 47% display="inline-block">
-<!--   </picture> -->
-<!--   <picture width = 45% display="inline-block"> -->
-    <img src="/my-metrics-1.svg" alt="Metrics" width = 47% display="inline-block">
-<!--   </picture> -->
+  <picture width = 45% display="inline-block">
+    <img src="/my-metrics-0.svg" alt="Metrics" width = 45% display="inline-block">
+  </picture>
+  <picture width = 45% display="inline-block">
+    <img src="/my-metrics-1.svg" alt="Metrics" width = 45% display="inline-block">
+  </picture>
   </div>
   
   ## 👀 About Me
