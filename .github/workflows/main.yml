@@ -17,11 +17,33 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
+          filename: my-metrics-0.svg
+          
           user: slowerthan5cmpersec
           template: classic
           base: header, activity, repositories
+          config_timezone: Asia/Seoul
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
+          extras_css: |
+            h1 {
+              color: #ff79c6;
+            }
+            h2 {
+              color: #8be9fd;
+            }
+            h3 {
+              color: #ff79c6;
+            }
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: my-metrics-1.svg
+
+          user: slowerthan5cmpersec
+          template: classic
+          # base: header, activity, repositories
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -35,3 +57,4 @@ jobs:
             h3 {
               color: #ff79c6;
             }
+
