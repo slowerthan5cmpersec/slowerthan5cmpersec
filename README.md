@@ -89,8 +89,9 @@
 
 
   
-  <details> <summary> <h3> ҂ ⬝_-) ᡕᠵᡁデ╤═╾╼     <picture><img src="https://img.shields.io/badge/ ✛ click this-ff79c6?style=flat-square&logo=ddd&logoColor=white"></picture>  </h3> </summary> 
+  <details> <summary> <h3> <picture><img src="https://img.shields.io/badge/ ✛ click this-ff79c6?style=flat-square&logo=ddd&logoColor=white"></picture>  </h3> </summary> 
   <!--   ▫▴▾⁼⁻∘∎∮∷∴⋅     |    ━   -->
+  <!--   ҂ ⬝_-) ᡕᠵᡁデ╤═╾╼      -->
 
   ### | PyPI 
   <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></picture>
