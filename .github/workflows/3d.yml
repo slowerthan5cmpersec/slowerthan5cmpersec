@@ -20,11 +20,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: https://github.com/slowerthan5cmpersec/slowerthan5cmpersec/blob/main/setting/setting.json
+          SETTING_JSON: setting/setting.json
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name slowerthan5cmpersec
+          git config user.email slowerthan5cmpersec@gmail.com
           git add -A .
           if git commit -m "generated"; then
             git push
