@@ -1,8 +1,8 @@
 {
   "type": "rainbow",
   "fileName": "profile-custom-rainbow.svg",
-  "backgroundColor": "#00000f",
-  "foregroundColor": "#eeeeff",
+  "backgroundColor": "#00ff0000",
+  "foregroundColor": "#fe2e4b",
   "strongColor": "rgb(255,200,55)",
   "weakColor": "#aaaaaa",
   "radarColor": "rgb(255,200,55)",
